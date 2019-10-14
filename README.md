@@ -13,7 +13,7 @@ After the bracket has been fixed:
 <img src="images/Mounting.jpg" width="400">
 
 Completed:  
-<img src="images/Completed.jpg" width="400">
+<img src="images/Complete.jpg" width="400">
 
 SVG:  
 <img src="images/Xiaomi_Mijia_Honeywell_Smoke_Alarm_Mount_SVG.png" width="400">
