@@ -1,8 +1,8 @@
 This is a mounting plate for the Xiaomi Mijia Honeywell Smoke Detector, the idea being it covers up any marks or paint differences when replacing an original, larger smoke alarm.
 
-N.B I: The Xiaomi Mijia Honeywell Smoke Detector is not compliant with British safety standards, and warns that it's only for use in China & Hong Kong. I use it along side multiple, compliant smoke detectors to ensure adequate protection. 
-
-N.B II: I had some issues when attempting to import a DXF created from the SVG file into the laser cutter. The dimensions were off and the circles became warped. If you experience these issues, I highly recommend using the DXF from this repository.
+**N.B:**
+1. The Xiaomi Mijia Honeywell Smoke Detector is not compliant with British safety standards, and warns that it's only for use in China & Hong Kong. I use it along side multiple, compliant smoke detectors to ensure adequate protection.
+2. I had some issues when attempting to import a DXF created from the SVG file into the laser cutter. The dimensions were off and the circles became warped. If you experience these issues, I highly recommend using the DXF from this repository.  
 
 ## Images
 
